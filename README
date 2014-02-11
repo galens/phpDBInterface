@@ -4,3 +4,8 @@ Functions commented with /**/ were not created but modified by me.
 This is the database portion of a nice mvc template called
 jpmaster77's login system, that is a very easy to expand upon system.
 This was completely converted over to mysql pdo as of 2013
+
+The references to keys in functions are to public keys stored in a 
+database to facilitate bitcoin/litecoin/altcoin transactions.
+
+Other functions are used for standard merchant functions
