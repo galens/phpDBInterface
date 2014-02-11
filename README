@@ -1,0 +1,6 @@
+This is a simple php database interface
+Functions commented with /**/ were not created but modified by me.
+
+This is the database portion of a nice mvc template called
+jpmaster77's login system, that is a very easy to expand upon system.
+This was completely converted over to mysql pdo as of 2013
